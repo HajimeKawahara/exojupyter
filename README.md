@@ -7,3 +7,4 @@ Jupyter notebooks to generate various figures for exoplanets and Earth.
 ## extra
 
 - planckf.py: Photon noise from an isothermal sphere.
+- radecsep_fast.py: Separation angle between two "radec"s
