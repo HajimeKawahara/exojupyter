@@ -1,7 +1,7 @@
 # exojupyter
-Jupyter notebooks to generate various figures for exoplanets and Earth. This repository is for reproducing figures in my textbook written in Japanese, "Exoplanet Exploration: Toward Exolife" (http://www.utp.or.jp/book/b345372.html).
+Jupyter notebooks to generate various figures for exoplanets and Earth. This repository is for reproducing figures in my textbook written in Japanese, ["Exoplanet Exploration: Toward Exolife"](http://www.utp.or.jp/book/b345372.html).
 
-このレポジトリは「系外惑星探査：地球外生命をめざして」（東大出版会, http://www.utp.or.jp/book/b345372.html)に掲載の図や計算を再現するためのコード集です。Python 3とJupyter notebookを使用しています。
+このレポジトリは [「系外惑星探査：地球外生命をめざして」（東大出版会)](http://www.utp.or.jp/book/b345372.html) に掲載の図や計算を再現するためのコード集です。Python 3とJupyter notebookを使用しています。
 
 
 ## extra
