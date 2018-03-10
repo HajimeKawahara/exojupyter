@@ -19,7 +19,7 @@ cd ExoData/
 python setup.py install
 ```
 
-##ipynb (Jupyter notebook)
+## ipynb (Jupyter notebook)
 
 - Figure 1.2 and 3.3 -- Exoplanet Positions on Galctic Plane and in a Distance-Teff Plane.ipynb
 銀河上での系外惑星の分布など
