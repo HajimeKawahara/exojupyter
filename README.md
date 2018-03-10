@@ -3,7 +3,7 @@ Jupyter notebooks to generate various figures for exoplanets and Earth. This rep
 
 このレポジトリは [「系外惑星探査：地球外生命をめざして」（東大出版会)](http://www.utp.or.jp/book/b345372.html) に掲載した図や計算を再現するためのコード集です。Python 3とJupyter notebookを使用しています。
 
-<img src="https://github.com/HajimeKawahara/exojupyter/blob/master/fig/planetdist.png" Titie="explanation" Width=300px><img src="https://github.com/HajimeKawahara/exojupyter/blob/master/fig/circular.jpg" Titie="explanation" Width=300px>
+<img src="https://github.com/HajimeKawahara/exojupyter/blob/master/fig/planetdist.png" Titie="explanation" Height=250px><img src="https://github.com/HajimeKawahara/exojupyter/blob/master/fig/circular.jpg" Titie="explanation" Height=250px>
 
 python3とjupyter notebookを用いています。[Anaconda](https://www.python.jp/install/windows/anaconda/install_anaconda.html) 等でインストールしてお使いください。また系外惑星データベースには[exodata](https://github.com/ryanvarley/ExoData) を用いています。
 
