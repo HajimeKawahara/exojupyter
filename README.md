@@ -22,17 +22,29 @@ python setup.py install
 ##ipynb (Jupyter notebook)
 
 - Figure 1.2 and 3.3 -- Exoplanet Positions on Galctic Plane and in a Distance-Teff Plane.ipynb
-- Figure 1.3 -- orbits of exoplanets.ipynb
+銀河上での系外惑星の分布など
+- Figure 1.3 -- Orbits of exoplanets.ipynb
+代表的な系外惑星の軌道
 - Figure 2.21 -- Color version of Beetles after circular porizers (a pair of glasses for Harry Potter 3D).ipynb
+黄金虫の円偏光（カラーバージョン）
 - Figure 4.18 -- Microlensing magnification curve.ipynb
+マイクロレンジングの増光曲線
 - Figure 4.5 -- Radial Velocity Curves.ipynb
-- Figure 6.11 Radiative-Convective Adjustment for Dry Atmosphere.ipynb
+視線速度カーブ
 - Figure 6.2-6.3 gray atmosphere in radiative equilibrium.ipynb
+放射平衡状態の灰色大気
 - Figure 6.4-6.5 Komabayashi-Ingersoll Limit.ipynb
+成層圏の射出限界
 - Figure 6.7-6.9-6.10 Moist Adiabat and Radiative-Convective Adjustment.ipynb
+放射層と対流層の接続(湿潤大気)
+- Figure 6.11 Radiative-Convective Adjustment for Dry Atmosphere.ipynb
+放射層と対流層の接続(乾燥大気)
 - Figure 7.11 -- Grating.ipynb
+回折格子
 - Figure 8.5-8.7 Spin-Orbit Tomography.ipynb
+系外惑星のマッピング手法
 - Figures 8.1,8.2,8.3 -- Markov Chain Monte Carlo.ipynb
+マルコフ鎖モンテカルロの例(emceeを使用)
 
 ## extra (おまけ)
 
