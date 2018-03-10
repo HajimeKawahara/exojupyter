@@ -50,5 +50,3 @@ python setup.py install
 
 - planckf.py: Photon noise from an isothermal sphere. 等温球を観測した時の光子数とノイズ
 - radecsep_fast.py: Separation angle between two "radec"s. 天球上の二点の(RA,DEC)から離角を計算する速いコード
-
-<img src="https://github.com/HajimeKawahara/exojupyter/blob/master/fig/circular.jpg" Titie="explanation" Width=300px>
