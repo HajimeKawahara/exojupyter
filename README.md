@@ -3,7 +3,11 @@ Jupyter notebooks to generate various figures for exoplanets and Earth. This rep
 
 <img src="https://github.com/HajimeKawahara/exojupyter/blob/master/fig/hyoushi.jpg" Titie="explanation" Height=300px>
 
-このレポジトリは [「系外惑星探査：地球外生命をめざして」（東大出版会)](http://www.utp.or.jp/book/b345372.html) に掲載した図や計算を再現するためのコード集です。Python3とjupyter notebookを用いています。[Anaconda](https://www.python.jp/install/windows/anaconda/install_anaconda.html) 等でインストールしてお使いください。また系外惑星データベースには[exodata](https://github.com/ryanvarley/ExoData) を用いています。
+このレポジトリは [「系外惑星探査：地球外生命をめざして」（東大出版会)](http://www.utp.or.jp/book/b345372.html) に掲載した図や計算を再現するためのコード集です。
+
+訂正ページは[こちら](https://www.evernote.com/shard/s247/sh/4741fa74-5d60-4549-9e75-f78abca92f29/3c920bc21ec74c17)
+
+Python3とjupyter notebookを用いています。[Anaconda](https://www.python.jp/install/windows/anaconda/install_anaconda.html) 等でインストールしてお使いください。また系外惑星データベースには[exodata](https://github.com/ryanvarley/ExoData) を用いています。
 
 - exodataのインストール例
 
